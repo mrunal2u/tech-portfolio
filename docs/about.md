@@ -11,8 +11,8 @@ title: About Me
 
 ## Current Role
 
-Product Support Engineer (Escalation Team )  at Akamai Technologies
-Grace Hopper Conference Celebration Attendee
+- Product Support Engineer (Escalation Team )  at Akamai Technologies
+- Grace Hopper Conference Celebration Attendee
 
 ## Recognition
 
